@@ -1,1 +1,6 @@
-This is the README-file. It should contain content.
+Based on code from http://code.google.com/p/g-authenticator-wp7/ and other open source projects, this code provides a proof-of-concept on how to generate a qr-code that can be scanned on your mobile device after installing google authenticator on it.
+
+http://www.google.com/support/accounts/bin/answer.py?answer=1066447
+http://code.google.com/p/google-authenticator/
+
+Please feel free to make changes, make this could be made into a library?
