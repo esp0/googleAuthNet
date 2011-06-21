@@ -45,7 +45,7 @@
 			this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
 			this.pictureBox1.Location = new System.Drawing.Point(13, 13);
 			this.pictureBox1.Name = "pictureBox1";
-			this.pictureBox1.Size = new System.Drawing.Size(401, 178);
+			this.pictureBox1.Size = new System.Drawing.Size(273, 228);
 			this.pictureBox1.TabIndex = 0;
 			this.pictureBox1.TabStop = false;
 			// 
@@ -53,9 +53,9 @@
 			// 
 			this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-			this.button1.Location = new System.Drawing.Point(13, 262);
+			this.button1.Location = new System.Drawing.Point(13, 312);
 			this.button1.Name = "button1";
-			this.button1.Size = new System.Drawing.Size(401, 23);
+			this.button1.Size = new System.Drawing.Size(273, 23);
 			this.button1.TabIndex = 1;
 			this.button1.Text = "Generate QR Code";
 			this.button1.UseVisualStyleBackColor = true;
@@ -65,9 +65,9 @@
 			// 
 			this.txtUserEmail.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-			this.txtUserEmail.Location = new System.Drawing.Point(13, 209);
+			this.txtUserEmail.Location = new System.Drawing.Point(13, 259);
 			this.txtUserEmail.Name = "txtUserEmail";
-			this.txtUserEmail.Size = new System.Drawing.Size(401, 20);
+			this.txtUserEmail.Size = new System.Drawing.Size(273, 20);
 			this.txtUserEmail.TabIndex = 2;
 			this.txtUserEmail.Text = "test@example.com";
 			// 
@@ -75,9 +75,9 @@
 			// 
 			this.txtOutput.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-			this.txtOutput.Location = new System.Drawing.Point(13, 236);
+			this.txtOutput.Location = new System.Drawing.Point(13, 286);
 			this.txtOutput.Name = "txtOutput";
-			this.txtOutput.Size = new System.Drawing.Size(401, 20);
+			this.txtOutput.Size = new System.Drawing.Size(273, 20);
 			this.txtOutput.TabIndex = 3;
 			// 
 			// timer1
@@ -89,7 +89,7 @@
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(427, 302);
+			this.ClientSize = new System.Drawing.Size(299, 352);
 			this.Controls.Add(this.txtOutput);
 			this.Controls.Add(this.txtUserEmail);
 			this.Controls.Add(this.button1);
